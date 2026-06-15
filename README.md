@@ -12,8 +12,8 @@ Motivated Information Technology graduate with experience in administrative supp
 ![](https://streak-stats.demolab.com/?user=6nix&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=6nix&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=6nix&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=6nix&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=6nix&icon=0&color=0)](https://visitcount.itsvg.in)
